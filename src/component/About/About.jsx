@@ -54,33 +54,4 @@ const About = () => {
 
 export default About;
 
-// import React from 'react';
-// import about_img from "../../assets/about.png";
 
-// const About = () => {
-//   return (
-
-//     <div className='min-h-[550px] py-10'>
-//     <div className='min-h-[550px] flex justify-center items-center '>
-//         <div className='container'>
-//             <div className='grid grid-cols-1 sm:grid-cols-2 gap-6'>
-//                 <div>
-//             <img src={about_img} alt=""  className='max-w-[430px] w-full mx-auto drop-shadow-[-10px_10px_12px_rgba(0,0,0,1)]' />
-//             </div>
-
-//             <div className='flex flex-col justify-center gap-6 sm:pt-0'>
-//             <h2 className='text-3xl sm:text-4xl font-bold'>About eLrnstudio</h2>
-//        <p className='text-gray-600 text-sm tracking-wide leading-5'> We are team of new age eLearning experts, who use latest technology to transform our clients existing complex and lengthy process to easy and fun loving Learning experiences.</p>
-//        <p className='text-gray-600 text-sm tracking-wide leading-5'> eLrnstudio leads the industry in delivering bespoke digital learning solutions that drive measurable business outcomes. Our mission is to revolutionize traditional learning paradigms with cutting-edge digital technology.</p>
-
-//            <button className='mr-auto p-2 outline-none bg-[#000F38] text-white rounded-lg'>Explore More..</button>
-//             </div>
-
-//         </div>
-//         </div>
-//     </div>
-//     </div>
-//   )
-// }
-
-// export default About
